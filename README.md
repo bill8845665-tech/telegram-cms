@@ -154,6 +154,6 @@ This is a demonstration project for educational purposes.
 
 ## Acknowledgments
 
-- Design inspired by [Telegram]([https://telegram.org](https://telegramoc.com/))
+- Design inspired by [Telegram]([https://telegramoc.com/])
 - Built with [Next.js](https://nextjs.org)
 - Styled with [Tailwind CSS](https://tailwindcss.com)
